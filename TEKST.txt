@@ -1,0 +1,10 @@
+int main(int argc, char contst* argv[] {
+
+	while (true) {
+		//CODE:
+
+		std::cout << "Bliepbloop" << '\n';
+	}
+
+	return 0;
+}
